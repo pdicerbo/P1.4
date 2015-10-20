@@ -33,3 +33,7 @@ in the morning.
 
 .. _P1.4_Introduction_to_numerical_analysis_and_scientific_computing: http://elearn.mhpc.it/moodle/course/view.php?id=3
 
+Sagemath Cloud:
+---------------
+
+Open a terminal session and your repo to the Sagemaht Cloud server.
